@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "rows": 22788,
+  "max_absolute_delta_K": 0.0,
+  "scope": "Public portable benchmark source, complete five-fold retraining in clean environment"
+}

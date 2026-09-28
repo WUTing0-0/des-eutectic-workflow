@@ -1,0 +1,10 @@
+{
+  "scope": "Full six-model, five-fold mixture benchmark retraining from published feature inputs; not raw quantum regeneration or full property-model retraining",
+  "rows": 22788,
+  "max_absolute_delta_K": 0.0,
+  "tolerance_K": 1e-07,
+  "status": "PASS",
+  "python": "<isolated-workspace>/fresh_env/bin/python",
+  "isolated": true,
+  "user_site_disabled": true
+}

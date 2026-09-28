@@ -1,0 +1,27 @@
+[
+  {
+    "file": "workflow/benchmark.py",
+    "sha256": "24e1d0695b47c43d8e0b813e1ceda508742e71465264cc1067124ca224da0a57",
+    "adaptation": "Portable input/output paths and removal of internal header only"
+  },
+  {
+    "file": "workflow/features/model_f_robustness_utils.py",
+    "sha256": "1115fe30f89278d232b299ddfabc674b31f3633c033535c7b8396cdcd58a0232",
+    "adaptation": "Removal of internal provenance header; English dependency error message"
+  },
+  {
+    "file": "workflow/features/src/data_utils.py",
+    "sha256": "1b1fbe6c0bc9164c518214d8484c35f3ba452478ef90b21c2eec7565c34faed8",
+    "adaptation": "Removal of internal provenance header; English dependency error message"
+  },
+  {
+    "file": "workflow/features/src/feature_expert_router.py",
+    "sha256": "000dbea6e3dd7955f6309b0ff1d7f2d3913aea2b5d0982a81d0fce24cfe1a91c",
+    "adaptation": "Removal of internal provenance header; English dependency error message"
+  },
+  {
+    "file": "workflow/features/src/feature_rdkit.py",
+    "sha256": "a03ebdd659f1a38959d0df881b90d5abe6c638fdfdd4c4ab7b286badfc36a337",
+    "adaptation": "Removal of internal provenance header; English dependency error message"
+  }
+]

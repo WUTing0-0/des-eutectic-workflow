@@ -1,0 +1,36 @@
+{
+  "completed": true,
+  "scope": "Real-model feature regression and complete matched-input substitution, including optimized curves",
+  "files": {
+    "runtime_regression.json": {
+      "status": "PASS",
+      "loaded_stability_source": "<isolated-workspace>/release/DES_Paper_Release/77_salt_tm_role_context_propagation_v1/run_candidate_stability_chunk_v76.py",
+      "checks": [
+        {
+          "rows": 66,
+          "property_draws": 1,
+          "batch_vs_separate_max": 0.0,
+          "vs_production_feature_max": 0.0
+        },
+        {
+          "rows": 623,
+          "property_draws": 12,
+          "batch_vs_separate_max": 0.0,
+          "vs_production_feature_max": 0.0
+        },
+        {
+          "rows": 60,
+          "property_draws": 1,
+          "batch_vs_separate_max": 0.0,
+          "vs_production_feature_max": 0.0
+        },
+        {
+          "rows": 661,
+          "property_draws": 12,
+          "batch_vs_separate_max": 0.0,
+          "vs_production_feature_max": 0.0
+        }
+      ]
+    }
+  }
+}
